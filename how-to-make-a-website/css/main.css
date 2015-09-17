@@ -1,44 +1,69 @@
 
+/**************************
+GENERAL
+**************************/
 
-a {
-    text-decoration: none;
-    color: #599a68;
-}
-
-header {
-    background: #6ab47b;
-    border-color: #599a68;
-}
 #wrapper {
     max-width: 940px;
     margin: 0 auto;
     padding: 0 5%;
 }
 
+a {
+    text-decoration: none;
+}
+
+
+
+
+/**************************
+HEADING
+**************************/
 
 #logo {
     text-align: center;
     margin: 0;
 }
 
+
+
+
+/**************************
+COLORS
+**************************/
+
+/* site body */
+body {
+    background: #ffffff;
+    color: #999;
+}
+
+/* green header */
+header {
+    background: #6ab47b;
+    border-color: #599a68;
+}
+
+/* navigation background on mobile devices */
 nav {
     background: #599a68;
 }
 
-nav a, nav a:visited {
-    color: #fff;
-}
-
+/* logo text */
 h1, h2 {
     color: #fff;
 }
 
-/*pseudo class usage*/
-nav a.selected, nav a:hover {
-    color: #32673f;
+a {
+    color: #599a68;
 }
 
-body {
-    background: white;
-    color: #999;
+/*pseudo class usage*/
+/* nav link */
+nav a, nav a:visited {
+    color: #ffffff;
+}
+/* selected nav link */
+nav a.selected, nav a:hover {
+    color: #32673f;
 }

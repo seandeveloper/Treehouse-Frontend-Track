@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="486c1956-ee4b-43aa-a07c-00e4a43fa61a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/how-to-make-a-website/css/main.css" afterPath="$PROJECT_DIR$/how-to-make-a-website/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Treehouse-Frontend-Track.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,8 +52,8 @@
           <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/how-to-make-a-website/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.51944447">
-                  <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+                <state vertical-scroll-proportion="1.0625">
+                  <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -414,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/how-to-make-a-website/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51944447">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.0625">
+          <caret line="45" column="18" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
           <folding />
         </state>
       </provider>

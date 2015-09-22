@@ -26,6 +26,10 @@ img {
     max-width: 100%;
 }
 
+h3 {
+    margin: 0 0 1em 0;
+
+}
 
 
 /**************************
@@ -124,7 +128,7 @@ PAGE: PORTFOLIO
     width: 45%;
     margin: 2.5%;
     background-color: #f5f5f5;
-    color: #bdc3c7;
+    color: #999fa3;
 }
 
 #gallery li a p {
@@ -133,6 +137,22 @@ PAGE: PORTFOLIO
     font-size: 1.75rem;
     color: #bdc3c7;
 }
+
+
+
+
+/**************************
+PAGE: ABOUT
+**************************/
+
+.profile-photo {
+    display: block;
+    max-width: 150px;
+    margin: 0 auto 30px;
+    border-radius: 100%;
+}
+
+
 
 /**************************
 COLORS

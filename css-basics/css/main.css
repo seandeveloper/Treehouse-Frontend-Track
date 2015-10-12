@@ -1,3 +1,11 @@
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
 p {
     color: white;
     background-color: lightblue;
@@ -27,12 +35,14 @@ h3 {
 }
 
 .primary-content {
+    text-align: center;
     border: 3px solid red;
 }
 
-.secondary-content {
+.top-boarder {
     border-top: 2px solid lightgrey;
 }
+
 
 #main-footer {
     padding-top: 60px;

@@ -1,14 +1,9 @@
-a {
-    text-decoration: none;
-}
-
 ul, ol {
     list-style: none;
 }
 
 p {
-    color: white;
-    background-color: lightblue;
+    color: grey;
 }
 
 body {
@@ -50,13 +45,38 @@ h3 {
     border: 3px solid red;
 }
 
+#main-footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    border-bottom: solid 10px orange;
+}
+
 .top-boarder {
     border-top: 2px solid lightgrey;
 }
 
 
-#main-footer {
-    padding-top: 60px;
-    padding-bottom: 60px;
-    border-bottom: solid 10px orange;
+/*****************************************************
+Anchor link color change settings
+*****************************************************/
+
+/*TODO: Question: why does a:link not change the anchor elements to orange and then when visited change blue*/
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: lightblue;
+}
+
+a:hover {
+    color: forestgreen;
+}
+
+a:active {
+    color: lightcoral;
+}
+a:focus {
+    color: white;
+    background-color: orange;
 }

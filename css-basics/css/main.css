@@ -2,7 +2,7 @@ a {
     text-decoration: none;
 }
 
-ul {
+ul, ol {
     list-style: none;
 }
 
@@ -18,6 +18,17 @@ body {
 
 .main-header {
     background-color: orange;
+}
+
+.title {
+    color: white;
+    font-size: 26px;
+}
+
+ul li, ol li  {
+    background-color: tomato;
+    color: white;
+    margin-bottom: 5px;
 }
 
 h1 {

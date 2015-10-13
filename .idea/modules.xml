@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Treehouse-Frontend-Track.iml" filepath="$PROJECT_DIR$/.idea/Treehouse-Frontend-Track.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/treehouse-frontend-track.iml" filepath="$PROJECT_DIR$/.idea/treehouse-frontend-track.iml" />
     </modules>
   </component>
 </project>

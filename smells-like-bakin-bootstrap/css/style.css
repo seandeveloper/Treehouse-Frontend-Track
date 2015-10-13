@@ -1,0 +1,76 @@
+/***************************************
+General selector and class styling fonts, text and animation
+***************************************/
+.hide-text {
+    text-indent: 110%;
+    white-space: nowrap;
+    overflow: hidden;
+    font-size: 0px;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    color: #faf3bc;
+    background: #420600 url('img/bg-texture.jpg') repeat;
+}
+
+a {
+    text-decoration: none;
+    color: #4fb69f;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Nunito', sans-serif;
+    color: #faf3bc;
+}
+
+.h1-custom-heading {
+    font-size: 1.750em;
+    letter-spacing: -1.5px;
+}
+
+.h2-custom-heading {
+    color:#B4C34F;
+    font-size: 1.500em;
+}
+
+/**************************************
+NAVIGATION
+**************************************/
+.nav li a,
+.nav li a:hover {
+    background: none;
+    color: #faf3bc;
+    font-size: 1.1em;
+
+}
+
+.nav {
+    margin-top: 170px;
+}
+
+/**************************************
+INTRO, button
+**************************************/
+#intro {
+margin: 50px 0 75px 0;
+}
+
+.cta-button {
+    color: #faf3bc;
+    background: #4fb69f url('img/texture.png') no-repeat;
+    padding: 15px 30px;
+    margin: 40px 0px;
+    border-radius: 25px;
+    text-transform: uppercase;
+    border: none;
+    font-size: 1em;
+}
+
+/**************************************
+PRIMARY CONTENT:
+**************************************/
+
+#primary-content img {
+    margin: 0 0 20px 0;
+}
